@@ -1,0 +1,8 @@
+{
+    "botToken": "MTEyMDg1ODA5MjAxMjMyNzEwMg.Gv95LF._1bIgH3VN9rqQ1BLcIzjvVuk5a8cDuJ_y_Ctaw",
+    "prefix": "!",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "Gen F"
+}
